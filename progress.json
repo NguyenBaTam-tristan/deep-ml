@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T06:42:04.214Z",
+  "generated_at": "2026-10-02T15:28:35.777Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -364,6 +364,19 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-28T01:33:25.342Z",
       "last_pushed_at": "2026-10-02T06:42:04.212Z"
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-10-02T15:28:32.945Z",
+      "last_pushed_at": "2026-10-02T15:28:32.945Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
