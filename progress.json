@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:44:16.188Z",
+  "generated_at": "2026-10-04T09:01:05.178Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -449,6 +449,19 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-10-04T08:44:13.323Z",
       "last_pushed_at": "2026-10-04T08:44:13.323Z"
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-10-04T09:01:02.323Z",
+      "last_pushed_at": "2026-10-04T09:01:02.323Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
