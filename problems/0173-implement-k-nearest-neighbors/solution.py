@@ -3,7 +3,7 @@ import numpy as np
 def k_nearest_neighbors(points, query_point, k):
     all_points = []
     for p in points:
-        distance = (p[0]-query_point[0])**2 + (p[1]-query_point[1])**2
+        distance = sum((a - b) ** 2 for a, b in zip(p, query_point))
         all_points.append([distance, p])
     all_points.sort(key = lambda item: item[0])
     result = []
