@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T04:45:56.480Z",
+  "generated_at": "2026-10-07T07:50:58.010Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -662,6 +662,19 @@
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-10-07T04:45:56.293Z",
       "last_pushed_at": "2026-10-07T04:45:56.293Z"
+    },
+    "problem:193": {
+      "kind": "problem",
+      "id": "193",
+      "title": "Compute Confusion Matrix with Normalization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/193",
+      "path": "problems/0193-compute-confusion-matrix-with-normalization",
+      "first_solved_at": "2026-10-07T07:50:56.763Z",
+      "last_pushed_at": "2026-10-07T07:50:56.763Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
