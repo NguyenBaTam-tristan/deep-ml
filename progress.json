@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:13:47.058Z",
+  "generated_at": "2026-10-10T16:29:25.785Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -745,6 +745,19 @@
       "last_pushed_at": "2026-10-10T16:13:44.101Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:882": {
+      "kind": "problem",
+      "id": "882",
+      "title": "Add a Bias Vector to a Batch via Broadcasting",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/882",
+      "path": "problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting",
+      "first_solved_at": "2026-10-10T16:29:22.477Z",
+      "last_pushed_at": "2026-10-10T16:29:22.477Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
