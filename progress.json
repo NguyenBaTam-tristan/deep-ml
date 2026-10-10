@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:13:50.057Z",
+  "generated_at": "2026-10-10T15:42:30.017Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -708,6 +708,17 @@
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-10-09T09:13:45.974Z",
       "last_pushed_at": "2026-10-09T09:13:45.974Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-10-10T15:42:26.875Z",
+      "last_pushed_at": "2026-10-10T15:42:26.875Z"
     }
   }
 }
