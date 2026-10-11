@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 43 problems · 0 labs · 24 math
+**68** solved · 43 problems · 0 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-10-09 | [solution](math/0035-matrix-calculus-identities) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-28 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-07 | [solution](math/0002-multivariate-calculus) |
+| [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-11 | [solution](math/0003-neural-network-derivatives) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-03 | [solution](math/0014-orthogonality-and-projections) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-09 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-03 | [solution](math/0013-solving-linear-systems) |
