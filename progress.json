@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T18:06:04.422Z",
+  "generated_at": "2026-10-11T18:12:06.451Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -834,6 +834,19 @@
       "path": "math/0003-neural-network-derivatives",
       "first_solved_at": "2026-10-11T18:06:02.076Z",
       "last_pushed_at": "2026-10-11T18:06:02.076Z"
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-10-11T18:12:04.605Z",
+      "last_pushed_at": "2026-10-11T18:12:04.605Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
