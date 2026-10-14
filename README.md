@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**75** solved · 49 problems · 0 labs · 26 math
+**76** solved · 49 problems · 1 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -61,6 +61,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-10-13 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-13 | [solution](problems/1227-numerically-stable-softmax) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-02 | [solution](problems/0312-quotient-rule-for-derivatives) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-10-14 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 
 ## Math
 
